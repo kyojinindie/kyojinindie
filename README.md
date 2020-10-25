@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Erick Lavielle
+
+This repository is about Kyojin-Indie,
+
+Kyojin-Indie currently is a dream that i'm developig.
+
+This dream is about that have my own software studio.
+
+I'm currently looking to collaborate on open source software.
+
+Actually i'm currently working on open source API for Statistic.
 
 ![Image of KyojinIndie](https://github.com/kyojinindie/kyojinindie/blob/main/kyojinindie.png)
 
