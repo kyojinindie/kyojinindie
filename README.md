@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image of KyojinIndie](https://github.com/kyojinindie/kyojinindie/blob/main/kyojinindie.png)
+
 <!--
 **kyojinindie/kyojinindie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
