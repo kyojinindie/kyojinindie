@@ -10,7 +10,7 @@ This dream is about that have my own software studio.
 
 I'm currently looking to collaborate on open source software.
 
-Actually i'm currently working on open source API for Statistic.
+Actually i'm currently working on Spring and Java 8 manuals of featueres and characteristics.
 
 ![Image of KyojinIndie](https://github.com/kyojinindie/kyojinindie/blob/main/kyojinindie.png)
 
