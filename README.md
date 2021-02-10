@@ -2,15 +2,9 @@
 
 ## I'm Erick Lavielle
 
-This repository is about Kyojin-Indie,
-
-Kyojin-Indie currently is a dream that i'm developing.
-
-This dream is about that have my own software studio.
-
 I'm currently looking to collaborate on open source software.
 
-Actually i'm currently working on Spring and Java 8 manuals of featueres and characteristics.
+Actually i'm currently working on nodejs Scheduler
 
 ![Image of KyojinIndie](https://github.com/kyojinindie/kyojinindie/blob/main/kyojinindie.png)
 
