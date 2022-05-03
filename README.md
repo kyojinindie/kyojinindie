@@ -1,10 +1,8 @@
 # Hi there 👋
 
-## I'm Erick Lavielle
+## I'm kyojin-indie
 
 I'm currently looking to collaborate on open source software.
-
-Actually i'm currently working on nodejs Scheduler
 
 ![Image of KyojinIndie](https://github.com/kyojinindie/kyojinindie/blob/main/kyojinindie.png)
 
