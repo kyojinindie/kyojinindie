@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm kyojin-indie
+## I'm Erick Medina
 
 I'm currently looking to collaborate on open source software.
 
